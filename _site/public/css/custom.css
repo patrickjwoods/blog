@@ -1,0 +1,80 @@
+.content { padding-top: 1rem; }
+
+.post { 
+  max-width: 56 0px;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ddd; 
+}
+.post img { max-width: 100%; }
+.post-title a { color: #2C343B; }
+.post-title a:hover { color: #C44741; }
+
+.meta {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.meta p { 
+  font-size: .8em; 
+  display: block; 
+  margin: 5px 0;
+  padding: 5px 0;
+  border: 1px solid #ddd;
+  border-left: 0;
+  border-right: 0; 
+  margin-bottom: 12px;
+  color: green;
+}
+
+.post-date { display: inline; margin: 0; }
+
+.author img { 
+    display: inline; 
+    float: left; 
+    margin-right: 12px;
+     }
+
+.post p {
+	font-size: 19px;
+  margin-bottom: 24px;
+} 
+
+.sidebar { background-color: rgb(44, 52, 59); padding-bottom: .3rem; }
+  .sidebar h1 { font-size: 1.8rem; }
+  .lead { font-size: 1rem; }
+
+blockquote { border-color: #52616D; }
+
+@media (min-width: 48rem) {
+  .content {
+    max-width: 38rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+  .post p {
+  	font-size: 18px;
+	 margin-bottom: 21px;
+   font-weight: normal;
+  }
+}
+
+@media (min-width: 64rem) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 8rem;
+  }
+
+}
+
+.sidebar {
+  background-color: #2C343B;
+}
+
+/* Sidebar links */
+.sidebar a {
+  color: #E5E1D1;
+}
+
+
+
