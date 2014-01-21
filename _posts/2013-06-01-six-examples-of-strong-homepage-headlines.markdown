@@ -2,6 +2,7 @@
 layout: post
 title:  "Six Examples of Strong Homepage Headlines"
 date:   2013-06-01 12:50:03
+author: patrick
 categories: startups 
 ---
 

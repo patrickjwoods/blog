@@ -2,6 +2,7 @@
 layout: post
 title:  "Rules Are What Artists Break"
 date:   2013-04-25 12:50:03
+author:	patrick
 categories: startups 
 ---
 

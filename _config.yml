@@ -11,8 +11,12 @@ tagline:          'A Blog'
 description:      'Hybrid ad man/startup guy'
 url:              http://patrickwoods.com
 
-author:
-  name:           'Patrick Woods'
-  url:            https://twitter.com/patrickjwoods
-
 paginate:         5
+
+authors:
+  patrick:
+    display_name: Patrick Woods	
+    gravatar: edc7842da1e4fe69ca6fef91a270fb2f
+    email: patrickjwoods@gmail.com
+    web: http://www.patrickwoods.com/
+    twitter: patrickjwoods

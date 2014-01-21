@@ -2,6 +2,7 @@
 layout: post
 title:  "Why Does Your Startup Sound Like a Startup?"
 date:   2013-05-30 12:50:03
+author:	patrick
 categories: startups 
 ---
 

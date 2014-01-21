@@ -2,6 +2,7 @@
 layout: post
 title:  "The 2-second 'Rule'"
 date:   2013-05-31 12:50:03
+author:	patrick
 categories: startups 
 ---
 

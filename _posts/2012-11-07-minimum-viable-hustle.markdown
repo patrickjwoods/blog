@@ -2,6 +2,7 @@
 layout: post
 title:  "Minimum Viable Hustle"
 date:   2012-11-07 12:50:03
+author:	patrick
 categories: startups 
 ---
 

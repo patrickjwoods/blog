@@ -2,6 +2,7 @@
 layout: post
 title:  "The Myth of the Product that Sells Itself"
 date:   2013-06-26 12:50:03
+author:	patrick
 categories: startups 
 ---
 
