@@ -10,6 +10,8 @@ After publishing [“Why Does Your Startup Sound Like a Startup?”]({% post_url
 
 The examples below are just good examples. In other words, I’m not saying they’re perfect or that their approach should be codified into a set of rules. I’m also not endorsing the entire site itself, but simply focusing on the headlines themselves (hopefully those are enough caveats for the HN crowd).
 
+<!--more-->
+
 All examples illustrate an approach to copy that does a few things well, including:
 
 * communicates a benefit to the visitor, not just a logical appeal based on the feature set

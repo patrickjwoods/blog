@@ -16,6 +16,8 @@ Ah, the Bigfoot of the Valley. The Self-Selling Product. An invention so brillia
 
 Everyone’s heard the stories. We’ve all seen the blurry photos and watched the shaky 8mm footage. A lucky few even claim they’ve encountered this evolutionary marvel in the wild. So with all this evidence, how is it no one’s ever managed to capture this elusive creature for study?
 
+<!--more-->
+
 Because it’s not a creature.
 
 It’s a guy in a gorilla suit.

@@ -10,6 +10,8 @@ categories: startups
 
 From the lean startup&nbsp;methodology,&nbsp;which describes a system for testing and&nbsp;validating&nbsp;business models, to activities like unit testing and TDD, which describe a system for testing and validating a codebase,&nbsp;startups love a good process.&nbsp;
 
+<!--more-->
+
 And who among us doesn’t love clear systems and repeatable processes? But while process is important as a framework and guide, we should remember that process is not itself an end.&nbsp;
 
 **Good process produces good results, sure, but great results come when an idea transcends the confines of the process, using it as a springboard into something both novel and meaningful.**

@@ -10,6 +10,8 @@ categories: startups
 
 I’m not sure where it originated, but there’s an oft-quoted “rule” of marketing in startup circles that claims the first priority of a website is to explain what the company or product does. 
 
+<!--more-->
+
 It goes a little something like this, as captured in a recent comment on a Hacker News post: 
 
 > It took me about 7-10 seconds to understand what your product is. **I should be able to understand within 2 seconds.**

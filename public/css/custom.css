@@ -1,6 +1,10 @@
 .content { padding-top: 1rem; }
 
-.post { max-width: 56 0px; }
+.post { 
+  max-width: 56 0px;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ddd; 
+}
 .post img { max-width: 100%; }
 .post-title a { color: #2C343B; }
 .post-title a:hover { color: #C44741; }

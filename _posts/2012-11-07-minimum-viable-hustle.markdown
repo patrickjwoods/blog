@@ -12,6 +12,8 @@ I’ll have Naive Things “Business Guys” Say for a thousand, Alex.&nbsp;
 
 But as silly as the sentiment seems, it’s also commonly held.&nbsp;
 
+<!--more-->
+
 In fact, after “How do I get involved in startups?” which is a good question, “Where do I find a technical cofounder?” is probably the most common question I’m asked.&nbsp;
 
 Thing is, developers are doing pretty okay these days, so it’s funny to think that they’re just sitting at Starbucks pining away about the startup life, listlessly hoping someone will task them with building the Next Big Thing.
