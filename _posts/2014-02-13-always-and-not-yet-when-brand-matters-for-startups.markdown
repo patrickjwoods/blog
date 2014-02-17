@@ -10,7 +10,7 @@ As someone who has worked with many startups to develop meaningful names and bra
 
 As a brand guy, you might imagine I'd say it matters from the very beginning. And it does. 
 
-But it also doesn't. 
+But it also doesn't.
 
 <!--more-->
 
