@@ -14,33 +14,33 @@ But it also doesn't.
 
 <!--more-->
 
-I should say that when I'm asked questions about branding, founders are making assumptions about the meaning of brand. As branding is, for many, a rather nebulous concept, they sometimes mean names or logos or websites. 
-
-For our purposes, let's assume that brand means the way you make people feel, the promises you make that they believe, and how you deliver on that promise. 
-
 ## Internal and external realities
 
-In reality, there are two halves of a startup's brand. There are intrinsic realities: what you believe about the world and how you're going to make it a better palce. And there are external indicators of those internal realities. These include name and logo, website copy, and how you communicate with your team and with customers. 
+In reality, there are two halves of a startup's brand. There are **intrinsic** realities: what you believe about the world and how you're going to make it a better palce. 
 
-So that said, I recommend aligning the internal and external brand elements with the stage of your company. 
+And there are **external** indicators of those internal realities. These include name and logo, website copy, and how you communicate with your team and with customers. 
 
-Beliefs matter always; external brand indicators matter, but not yet, at least not for those at the earliest stages. 
+If the internal and external things two circles in a venn diagram, **brand** is what's found in the overlap. 
+
+I recommend aligning the internal and external brand elements with the stage of your company. 
+
+Beliefs matter always; external brand indicators matter, *but not yet*, at least not for those at the earliest stages. 
 
 ## Alignment occurs at product-market fit
 
-The key turning point is product-market fit. Before product-market fit, the external stuff doesn't matter, while the internal beliefs are **crucial**. 
+The key turning point is product-market fit. Before product-market fit, the external stuff doesn't matter, while the internal beliefs are **essential**. 
 
 Your company's worldview guides the direction of you and your team daily. It's the driving set of beliefs that gets you out the door to do customer discovery. To burn the midnight oil and keep the progress consistent. 
 
-But until you've reached product-market fit, your name and how you look don't matter a whole lot. That's because during  one-on-one sales calls and pitches, *you* are the brand of your company. You're literally knocking on customer's doors. 
+But until you've reached product-market fit, your name and how you look don't matter a whole lot. That's because during one-on-one sales calls and pitches, *you* represent the brand of your company. *You* are literally knocking on customer's doors. 
 
-However, once you know what's working from a product standpoint, e.g. it's clear what words and phrases resonate with customers, you find yourself repeating the same key sentences, and you're ready to scale your marketing, *then* brand becomes **crucial**. 
+However, once you know what's working from a product standpoint, e.g. it's clear what words and phrases resonate with customers, you find yourself repeating the same key sentences, and you're ready to scale your marketing, *then* the external indicators become **crucial**. 
 
 ## Your brand leads the way
 
 No longer can you personally speak with customers and walk them through your deck. Your brand, your messaging, and your channel partners become potential customers' first point of contact with your company. If your name is distracting and your copy is unclear, building trust and excitement among potential customers will be nearly impossible. 
 
-Fortunately, by then, you should have a strong foundation for building a robust brand. 
+Fortunately, by then, you should have a strong foundation for building the external parts of a robust brand. 
 
 For one, you have the benefit of countless customers conversations. During those, you uncovered the benefits that they love the most, along with traits the regularly rose to the top as important. 
 
