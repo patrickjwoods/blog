@@ -58,9 +58,4 @@ Obviously, marketing activities will never save a bad product. As Bill Bernbach 
 
 > A great ad campaign will make a bad product fail faster. It will get more people to know it’s bad.
 
-But good marketing can certainly help good products grow. And since you’re already doing some form of marketing anyway, you might as well take steps to do it effectively. And that’s how you demystify the Bigfoot the Valley: admitting that the self-selling product is a myth, and begin taking intentional actions to optimize the was various ways your product goes to market.  
-
-***
-
-_Still need help? I’m offering free 30-minute Google Hangout office hour sessions to take questions about startup branding and messaging. No strings attached. *[Get in touch](http://bit.ly/19hJb8c)* if that interests you._
-  
+But good marketing can certainly help good products grow. And since you’re already doing some form of marketing anyway, you might as well take steps to do it effectively. And that’s how you demystify the Bigfoot the Valley: admitting that the self-selling product is a myth, and begin taking intentional actions to optimize the was various ways your product goes to market. 

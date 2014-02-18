@@ -334,9 +334,6 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  border-top: 1px solid #eee;
 }
 .related-posts {
   padding-left: 0;
@@ -356,7 +353,19 @@ tbody tr:nth-child(odd) th {
 .related-posts li a:hover small {
   color: inherit;
 }
-
+.bottom-stuff h4 {
+  text-align: center;
+  margin: 2rem 0; 
+}
+.bottom-stuff p {
+    font-size: .9rem;
+    font-style: italic;
+    border: 1px #ddd solid; 
+    border-left: 0;
+    border-right: 0;
+    margin: 1.5rem 0;
+    padding: 1.5rem 0; 
+}
 
 /*
  * Pagination

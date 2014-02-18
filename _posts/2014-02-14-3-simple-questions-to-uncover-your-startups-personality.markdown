@@ -107,9 +107,3 @@ First, you'll build an incredible solution to a big problem. But then, to push e
 A great personality keeps speaking even when you're no longer talking. A great personality inspires people to talk about you when you're not around. In my case, that meant a dude suggesting a dude buy soap as a gift to another dude! That's powerful. 
 
 So what are you saying? 
-
-
-***
-
-_Still need help? I’m offering free 30-minute Google Hangout office hour sessions to take questions about startup branding and messaging. No strings attached. *[Get in touch](http://bit.ly/19hJb8c)* if that interests you._
-  

@@ -20,7 +20,7 @@ In reality, there are two halves of a startup's brand. There are **intrinsic** r
 
 And there are **external** indicators of those internal realities. These include name and logo, website copy, and how you communicate with your team and with customers. 
 
-If the internal and external things two circles in a venn diagram, **brand** is what's found in the overlap. 
+> If the internal and external things are two circles in a venn diagram, **brand** is what's found in the overlap. 
 
 I recommend aligning the internal and external brand elements with the stage of your company. 
 
@@ -51,7 +51,3 @@ You also have the driving internal beliefs you've shared with your team from the
 These truths—about your customers, about your product, and about you—serve as the basis for a compelling and authentic brand. What you'll have will be so much richer than if you'd gone straight to GoDaddy on day one and tried a couple hundred URLs until you found something you thought was cool.
 
 You'll find your audience beginning to trust your brand, and they'll do so because it's based not on what you *hoped* you'd become, but what you *have* become. That level of authenticity is rare, especially among startups, and you'll find it to be a compelling differentiator as you continue to scale.  
-
-***
-
-_Still need help? I’m offering free 30-minute Google Hangout office hour sessions to take questions about startup branding and messaging. No strings attached. *[Get in touch](http://bit.ly/19hJb8c)* if that interests you._
