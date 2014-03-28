@@ -32,7 +32,7 @@ Sounds a lot like the startup worldview. So it's weird that, when, it comes to b
 
 Disruptive technology, you say? Too bad you look and sound like every other player in your space. 
 
-What if your messaging and marketing were as disruptive as your technology? What if your team put in the effort to tell a truly compelling and meaingful brand story that did justice to your product? 
+What if your messaging and marketing were as disruptive as your technology? What if your team put in the effort to tell a truly compelling and meaningful brand story that did justice to your product? 
 
 Leave the trends to the bloggers and journalists; they need something to write about come January. 
 
