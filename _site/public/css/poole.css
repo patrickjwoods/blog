@@ -367,6 +367,22 @@ tbody tr:nth-child(odd) th {
     padding: 1.5rem 0; 
 }
 
+.bottom-stuff form {
+    font-size: .9rem;
+    border-top: 1px #ddd solid; 
+    margin: 1.5rem 0;
+    margin-bottom: -30px;
+    padding: 1.5rem 0;
+    background-color: #FFF2C1; 
+    font-size: 1.1rem;
+}
+
+.bottom-stuff form label {
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+
+
 /*
  * Pagination
  *

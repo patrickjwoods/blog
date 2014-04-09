@@ -67,6 +67,19 @@ blockquote { border-color: #52616D; }
 
 }
 
+@media (max-width: 64rem) {
+  .sidebar h1 {
+    font-size: 1rem;
+  }
+  .sidebar li {
+    font-size: .8rem;
+    padding-top: .5rem
+    padding-bottom: .1rem;
+  }
+
+
+}
+
 .sidebar {
   background-color: #2C343B;
 }
