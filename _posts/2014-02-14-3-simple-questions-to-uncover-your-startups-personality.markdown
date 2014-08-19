@@ -107,3 +107,25 @@ First, you'll build an incredible solution to a big problem. But then, to push e
 A great personality keeps speaking even when you're no longer talking. A great personality inspires people to talk about you when you're not around. In my case, that meant a dude suggesting a dude buy soap as a gift to another dude! That's powerful. 
 
 So what are you saying? 
+
+
+
+
+1.     The mind must gather its raw material
+a.     Specific: Those relating to the product and audience
+b.     General: Everything else (keep a scrapbook)
+2.     Review and “feel” your raw material, seeking relationships
+a.     Look at elements, facts upside-down
+b.     Put two together, how do they fit?
+c.     Tentative or partial ideas will surface  — write them down
+d.     Look at elements indirectly
+e.     Push through to mental second wind
+f.      Finish when your mind is garbled (from too much info, not lack of)
+3.     Drop it completely
+a.     Access other stimuli: Listen to music, watch a movie, read a novel, write poetry, go for a walk
+4.     Grab the idea when it jumps out at you
+5.     Bring your idea out to reality
+a.     Develop it, be patient, work it over
+b.     Submit it for criticism
+c.     Good ideas will self-expand
+ 
