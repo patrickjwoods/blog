@@ -6,11 +6,8 @@ author:	patrick
 categories: startups 
 ---
 
-<a href="https://www.flickr.com/photos/iamos/2952568902" title="Mousetraps by I. Amos, on Flickr"><img src="https://farm3.staticflickr.com/2034/2952568902_5645d642f7.jpg" width="100%" alt="Mousetraps"></a>
 
 When building a two-sided marketplace, the chicken vs. egg anology 
-
-
 
 
 "No one ever got fired for buying IBM," as the saying goes.
