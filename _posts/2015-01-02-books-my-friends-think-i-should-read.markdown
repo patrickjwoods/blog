@@ -13,7 +13,7 @@ We had a lot of fun in 2014 at [archer>malmo ventures](http://archermalmo.com/ve
 
 On the other hand, I've had this feeling lately that I'm on, or arriving at, a plateau. archer>malmo ventures is in its third year, things are going well, and I can't help but sense that things are getting a little too comfortable. Never a good sign. 
 
-I've always been a reader, so I always look to the written word for guidance and inspiration. I'm also lucky to have a lot of really smart and creative friends to turn to for input and advice in times like this. So I reached out on Twitter to get their thoughts and what to read next. 
+I've always been a reader, so I always look to the written word for guidance and inspiration. I'm also lucky to have a lot of really smart and creative friends to turn to for input and advice in times like this. So I reached out on Twitter to get their thoughts on what to read next. 
 
 Here's how I got the conversation going: 
 
