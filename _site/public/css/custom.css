@@ -38,6 +38,8 @@
 .post p {
 	font-size: 19px;
   margin-bottom: 24px;
+  font-family: cambria, times
+
 } 
 
 .sidebar { background-color: rgb(44, 52, 59); padding-bottom: .3rem; }
@@ -53,7 +55,7 @@ blockquote { border-color: #52616D; }
     margin-right: 2rem;
   }
   .post p {
-  	font-size: 18px;
+  	font-size: 22px;
 	 margin-bottom: 21px;
    font-weight: normal;
   }
