@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "13 Books My Friends Think I Should Read"
+title:  "13 Books My Friends Think I Should Read (and Maybe You Should Too)"
 date:   2014-11-23 15:50:03
 author:	patrick
 categories: startups 
@@ -13,7 +13,7 @@ We had a lot of fun in 2014 at [archer>malmo ventures](http://archermalmo.com/ve
 
 On the other hand, I've had this feeling lately that I'm on, or arriving at, a plateau. archer>malmo ventures is in its third year, things are going well, and I can't help but sense that things are getting a little too comfortable. Never a good sign. 
 
-I've always been a reader, so I always look to the written word for guidance and inspiration. I'm also lucky to have a lot of really smart and creative friends to turn to for input and advice in times like this. So I reached out on Twitter to get their thoughts on what to read next. 
+I'm a reader, so I always look to the written word for guidance and inspiration. I'm also lucky to have a lot of really smart and creative friends to turn to for input and advice in times like this. So I reached out on Twitter to get their thoughts on what to read next. 
 
 Here's how I got the conversation going: 
 
@@ -21,7 +21,9 @@ Here's how I got the conversation going:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
-And thankfully, within an hour or so, I had more than a dozen recommendations for friends and strangers alike. So here's the list (in chronological order):
+And thankfully, within an hour or so, I had more than a dozen recommendations from friends and strangers alike. It's a great mix of fiction and nonfiction, with challenging reads on topics ranging from creativity to productivity to philosophy. 
+
+Without further adieu, here's the list (in chronological order):
 
 <!--more-->
 
