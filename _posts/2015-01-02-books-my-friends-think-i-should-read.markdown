@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "13 Books My Friends Think I Should Read (and Maybe You Should Too)"
-date:   2014-11-23 15:50:03
+date:   2015-01-02 15:50:03
 author:	patrick
 categories: startups 
 ---
