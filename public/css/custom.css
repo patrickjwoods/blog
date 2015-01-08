@@ -35,7 +35,7 @@
     margin-right: 12px;
      }
 
-.post p {
+.post p, .post ul {
 	font-size: 19px;
   margin-bottom: 24px;
   font-family: cambria, times
