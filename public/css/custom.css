@@ -27,6 +27,12 @@
   color: green;
 }
 
+.post-title {
+  font-family: cambria, times;
+  font-size: 2rem;
+  line-height: 2.1rem;
+}
+
 .post-date { display: inline; margin: 0; }
 
 .author img { 
@@ -35,18 +41,22 @@
     margin-right: 12px;
      }
 
-.post p, .post ul {
+.post p {
 	font-size: 19px;
   margin-bottom: 24px;
   font-family: cambria, times
-
 } 
+
+.post li { font-size: 22px; font-family: cambria, times;}
 
 .post img { text-align: center; }
 
 .sidebar { background-color: rgb(44, 52, 59); padding-bottom: .3rem; }
-  .sidebar h1 { font-size: 1.8rem; }
-  .lead { font-size: 1rem; }
+  .sidebar h1 { font-size: 1.4rem; font-family: cambria, times }
+  .lead { font-size: .8rem; }
+
+  .sidebar li { font-size: .8rem; }
+
 
 blockquote { border-color: #52616D; }
 

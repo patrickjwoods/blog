@@ -16,6 +16,8 @@ When you think about which companies have a strong personality, lots of great ex
 
 But does personality always have to be funny or entertaining? Is it possible to have a brand personality that's more serious and reserved, while also being strong and effective? What type of personality makes the most sense for your startup based on your values and your positioning statement? 
 
+<!--more-->
+
 Strong personalities aren't so much about being funny or serious or what have you. Rather, **strong brand personalities** are ones that:
 
 -   are true to the values of the company
@@ -70,23 +72,23 @@ There are also some very opinionated pieces of copy as well. They're not necessa
 
 <img src="{{ root }}/img/william.png" width="100%" alt="H. William">
 
-This guy has done serious thinking about his craft. And that is fantastic. This is an example of a brand with an incredibly clear sense of identity. As you might imagine, exclamation points, animations, and mascots would make zero sense in this context. 
+This guy has done serious thinking about his craft. And that is fantastic. As a result, this is an example of a brand with an incredibly clear sense of identity. As you might imagine, exclamation points, animations, and mascots would make zero sense in this context. 
 
 If you were describing your pal Harlan Estate, you might say he's serious but has great taste, dedicated to his craft and is unwavering in his commitment to excellence. He's refined and reserved, authentic and honest. 
 
-If you had a friend who wasn't a fan of Harlan, they might say he's snobby, a bit condescending, and probably inaccessible. But that's okay. Because Harlan Estate does what's true to who it is, and there are plenty of people who identify with that, and, as a result, buy their expensive wines. 
+On the other hand, if you had a friend who wasn't a fan of Harlan, they might say he's snobby, a bit condescending, and probably inaccessible. But that's okay. Because Harlan Estate does what's true to who it is. There are plenty of people who identify with that, and, as a result, buy their expensive wines. 
 
-In this case, Harlan Estate has a very clear picture of its target audience as well as the market opportunity for super-exclusive wine. Into that context, they've asserted their values, which, when executed, express themselves through the design and copy choices made above. 
+As you can see, Harlan Estate has a very clear picture of its target audience as well as the market opportunity for super-exclusive wine. Into that context, they've asserted their values, which, when executed, express themselves through the design and copy choices made above. 
 
 ## the takeaway
 
-In the overlap of those three key ares of the Brand Strategy Canvas—customer insight, competitive environment, and company values—MailChimp and Harlan Estate have successfully created strong brand personalities that resonate with their audience and leverage an opportunity in the competitive space. 
+At the intersection of those three key ares of the Brand Strategy Canvas—customer insight, competitive environment, and company values—MailChimp and Harlan Estate have successfully created strong brand personalities that resonate with their audience and leverage an opportunity in the competitive space. 
 
 **And most importantly, their personalities are authentic**. By "authentic," I mean that the the expression of their personalities is true to their values. The personalities don't feel manufactured or contrived, because they aren't. Indeed, they are rooted in truth. 
 
-Personality is only one part of a strong brand strategy, but because it's so visible and experiential, it's among the most crucial. Of all areas of the canvas, personality provides the most tangible connection between your strategic choices and how the world experiences that strategy. 
+Personality is only one part of a strong brand strategy, but because it's so visible and experiential, it's among the most crucial. **Of all the elements of brand strategy, personality provides the most tangible connection between your strategic choices and how the world experiences that strategy**. 
 
-That's what brand personality is all about: dialing-in to what you believe, and communicating those beliefs in a way that's true. Your execution, i.e. copy, colors, UI, design, should always support decisions made in your brand strategy. 
+That's what brand personality is all about: dialing-in to what you believe, and communicating those beliefs in a way that's true. Your execution, i.e. copy, colors, UI, and design, should always support decisions made in your brand strategy. 
 
 In that context, personality can be seen as a helpful bridge between the core of your strategy set forth in your positioning statement, and the more tangible artifacts of your brand. 
 
