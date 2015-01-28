@@ -47,7 +47,7 @@
   font-family: cambria, times
 } 
 
-.post li { font-size: 22px; font-family: cambria, times; margin-bottom: 10px;}
+.post li { font-size: 19px; font-family: cambria, times; margin-bottom: 10px;}
 
 .post img { text-align: center; }
 
@@ -71,6 +71,9 @@ blockquote { border-color: #52616D; }
 	 margin-bottom: 21px;
    font-weight: normal;
   }
+
+  .post li { font-size: 22px; font-family: cambria, times; margin-bottom: 10px;}
+
 }
 
 @media (min-width: 64rem) {

@@ -17,3 +17,7 @@ I'm also really proud of the [Brand Strategy Canvas](http://brandstrategycanvas.
 * [AngelList](https://angel.co/patrick-woods)
 * [LinkedIn](http://www.linkedin.com/in/patrickjwoods)
 * [Tumblr](http://patrickwoods.tumblr.com) - _older posts still live there_
+
+### About this site
+
+This blog is built on [Jekyll](http://jekyllrb.com/) and is based on the [Hyde](https://github.com/poole/hyde) theme. It's stored on [github](github.com) and is deployed automatically using a neat tool calld [Deploy](http://deployhq.com). 
