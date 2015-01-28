@@ -47,7 +47,7 @@
   font-family: cambria, times
 } 
 
-.post li { font-size: 22px; font-family: cambria, times;}
+.post li { font-size: 22px; font-family: cambria, times; margin-bottom: 10px;}
 
 .post img { text-align: center; }
 
