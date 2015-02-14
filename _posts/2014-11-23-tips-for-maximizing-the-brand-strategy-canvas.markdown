@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tips for Maximizing the Brand Strategy Canvas"
-date:   2014-01-02 12:50:03
+date:   2014-11-23 12:50:03
 author:	patrick
 categories: startups 
 ---
