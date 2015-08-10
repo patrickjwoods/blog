@@ -36,7 +36,7 @@ In Memphis, there's a wonderful AAA baseball team called the [Redbirds](https://
 
 Were the Redbirds to consider their positioning statement, describing themselves as "the top AAA baseball team in Memphis" would not be useful. Indeed, there are no other pro baseball teams in the market. They're the best by default. A straightforward description, then, is irrelevant, and provides no opportunity for further brand development. For that reason, a broader description is more ideal. 
 
-In the case of the Redbirds, a more strategic brand description might look something like "The Memphis Redbirds are the the family entertainment destination..."
+In the case of the Redbirds, a more strategic brand description might look something like "The Memphis Redbirds are the family entertainment destination..."
 
 In this way, we've reframed the Redbirds as a purveyor of family-friendly entertainment, which is much more compelling than describing them simply as a baseball team. 
 
@@ -46,7 +46,7 @@ With this kind of description, it becomes clear how the strategy will be develop
 
 ## Go after the largest share-of-wallet
 
-When working through your positioning, it's helpful to consider how your audience views your offering *in the context of how they allocate their budget*. This is known as Share of Wallet. In this case, the Redbirds aren't competing against other baseball teams, but other family entertainment options, like the Memphis Zoo, the Children's Museum, various parks, and other compelling opportunities. 
+When working through your positioning, it's helpful to consider your brand description in light of how your audience views your offering *in the context of how they allocate their budget*. This is known as **Share of Wallet**. In this case, the Redbirds aren't competing against other baseball teams, but other family entertainment options, like the Memphis Zoo, the Children's Museum, various parks, and other compelling opportunities. 
 
 The question, then, is how can we grab more share-of-wallet from those in our target audience? If given the choice between, say, the zoo and a day at the ballpark, how can our brand strategy work to increase the likelihood of our audience choosing the latter? 
 
