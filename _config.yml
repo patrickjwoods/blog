@@ -11,6 +11,10 @@ tagline:          'A Blog'
 description:      'Hybrid ad man/startup guy'
 url:              http://patrickwoods.com
 
+name: Startup Branding from Patrick Woods
+description: Articles about startup branding.
+url: http://patrickwoods.com
+
 paginate:         5
 
 authors:
