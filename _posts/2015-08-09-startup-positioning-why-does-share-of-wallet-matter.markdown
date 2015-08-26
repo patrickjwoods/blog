@@ -22,6 +22,8 @@ This arms race of product augmentation warrants its own post, but for now, it's 
 
 But what if you're *creating a market* where there wasn't one? How do you describe your widget if there are no other widgets for people to buy? 
 
+<!--more-->
+
 If you use the [Brand Strategy Canvas](http://brandstrategycanvas.com), the Description of your brand is one of the 5 elements of you're positioning statement, along with Audience, Benefit, Proof, and Payoff. 
 
 There are two ways to think about your description. The first is to put forth a simple, straightforward explanation of what you do. This typically ladders-up to one of the features you described earlier on the canvas. 
