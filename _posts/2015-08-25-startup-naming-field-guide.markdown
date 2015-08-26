@@ -8,15 +8,15 @@ categories: startups
 
 <img src="{{ root }}/img/backpackers.jpg" width="100%" alt="How to Name a Startup">
 
-There's plenty of trite advice out there on how to name your startup. Just google that phrase and you’ll find all sorts of *10 Tricks to Name Your Startup!* and other bullet-filled listicles. Much of the name-related content would lead you to believe that naming is easy. Just follow these steps and you’ll be fine. 
+There's plenty of trite advice out there on how to name your startup. Just google "startup naming advice" and you’ll find all sorts of *10 Tricks to Name Your Startup!* and other bullet-filled listicles. Much of the name-related content would lead you to believe that naming is easy. Just follow these steps and you’ll be fine. 
 
 Thing is, finding a good name is hard. There are no shortcuts. Sure, you *can* pick a name at random and just go with it. But **your name is the first element of your brand a potential user experiences**. It's the tip of the spear, and it should be sharp.
 
-The good news is that others have done this before. My team has named many startups, and even more non-startup brands. I've worked with them to distill the key steps they follow when working on a naming project. There are lots of processes out there, but this is the one that works for us. 
+The good news is that others have done this before. My team has named many startups, and even more non-startup brands. I've worked with them to distill the key steps they follow when working on a naming project (shoutout to [Dan Price](https://twitter.com/_danprice) and [Justin Dobbs](https://twitter.com/sloganeerist)). There are lots of processes out there, but this is the one that works for us. 
 
-There are four main parts—Foundation, Generation, Evaluation, and Validation. Each step is important, and the success of each phase depends on the quality of work you put forth in the prior stage. 
+There are four main parts to our approach—Foundation, Generation, Evaluation, and Validation. Each step is important, and the success of each phase depends on the quality of work you put forth in the prior stage. 
 
-It may not be quick, but it's worth it. And when you're finished, you'll have a name that means something, that starts a conversation about something true in your brand. To me, that's a lot better than picking a random word from the thesaurus. 
+It may not be quick, but it's worth it. And when you're finished, you'll have a name that means something, that starts a conversation about something true in your brand. To me, that's a lot better than picking a random word from the thesaurus and hoping for the best. 
 
 Ready to get started? 
 
@@ -24,9 +24,9 @@ Ready to get started?
 
 ## 1. Foundation
 
-The foundation is crucial because it’s where you decide what it is you’re trying to accomplish with your name. The most thorough way to build a foundation for your name is to develop a sound brand strategy. We created a tool called the [Brand Strategy Canvas](http://brandstrategycanvas.com) to help founders get better at exploring their strategy. It’s worth the time to dig-in, but you can jump-start the process by exploring three areas: insights about you product, observations about the competition and market, and truths about your users.  
+The Foundation is crucial because it’s where you decide what it is you’re trying to accomplish with your name. The most thorough way to build a foundation for your name is to develop a sound brand strategy. We created a tool called the [Brand Strategy Canvas](http://brandstrategycanvas.com) to help founders get better at exploring their strategy. It’s worth the time to dig-in, but you can jump-start the process by exploring three areas: truths about your users, observations about the competition and market, and insights about you product.  
 
-> Your strategy helps determine what *what* to say; the name itself is *how* to say it. 
+> Your strategy helps determine *what* to say; the name itself is *how* you'll say it. 
 
 As you move through the steps, we recommend recording your thoughts on a whiteboard or in a doc. You'll want to reference your insights later.
 
@@ -34,15 +34,15 @@ As you move through the steps, we recommend recording your thoughts on a whitebo
 
 As a founder, it’s likely that you’ve spent a considerable amount of time interacting with users. Customer Discovery is a key competency of early-stage founders. It informs product choices, guides decisions about markets to enter, and in general, provides real-world data for the founding team to test its assumptions against. 
 
-The Voice of the Consumer, as it were, serves as an ever-present guiding light throughout the creative development process. After all, if what we’re saying and doing doesn’t resonate with the target audience, why say anything at all?
+The Voice of the Consumer, as it were, serves as an ever-present guiding light throughout the creative development process. After all, if what you're saying and doing doesn’t resonate with the target audience, why say anything at all?
 
 So what kinds of information is useful here? Traditionally, customer insight is split into two subsets. *Demographic* data consists of all the objective data about an audience, including gender, age, income, location and a host of other factors. “25–34 year old college-educate males that own one or more gaming consoles and earn more that $40,000” would be an example of a demographic description. 
 
-The other main type of audience description is called *psychographic*, and as the name implies, looks into the psychology of the audience. Why do they do what they do? What do their behaviors say about their desires, aspirations, and beliefs? What we’re looking for in this case is the *human nature* behind their behavior. As you might imagine, psychographic descriptions are a lot more interesting and inspiring than demographic descriptions alone. 
+The other main type of audience description is called *psychographic*, and as the name implies, looks into the psychology of the audience. Why do they do what they do? What do their behaviors say about their desires, aspirations, and beliefs? What we’re looking for in this case is the *human nature* behind their behavior. As you might imagine, **psychographic descriptions are a lot more interesting and inspiring than demographic descriptions alone**. 
 
-To illustrate, compare the demographic description of gamers above with the following: “Despite having a great job and plenty of responsibilities, they enjoy relaxing with their friends, often virtually, over casual multiplayer games several times a week; they view gaming as a mature endeavor, and have the income to support this hobby; they believe in working and playing hard.” 
+To illustrate, compare the demographic description of gamers above with the following: “Despite having a great job and plenty of responsibilities, they enjoy relaxing with their friends, often virtually, over casual multiplayer games several times a week; they view gaming as a mature endeavor, and have the income to support this hobby; they believe in working and playing hard.” As you can see, there's a lot more richness there, which will prove useful later. 
 
-As you consider your audience, what are the behavioral traits your customers share? What common threads have emerged from your conversations with them? Maybe they all really hate something about their current solution. Perhaps saving time is more important than saving money in the near term. Maybe they all listen to obscure indy bands and spend their free time perfecting the nuance of coffee roasting. 
+Additionally, what are the behavioral traits your customers share? What common threads have emerged from your conversations with them? Maybe they all really hate something about their current solution. Perhaps saving time is more important than saving money in the near term. Maybe they all listen to obscure indy bands and spend their free time perfecting the nuance of coffee roasting. 
 
 Whatever the case, this section is all about crafting a description of your audience that is both true, meaningful, and actionable.
 
@@ -52,7 +52,7 @@ Like the customer insights, the Competition section incorporates information you
 
 This section is less about listing your competitors, and more about describing the *themes of the category*. Based on your customer insight, what are the key elements of the competitive set, and where does your solution fit into that mix? 
 
-As you consider your competition, keep in mind the **distinction between direct and indirect competitors**. Too many founders make the mistake of claiming that they have no competition. 
+As you consider your competition, keep in mind the **distinction between direct and indirect competitors**. Too many founders make the mistake of claiming that they have no competition, but what they mean is they have no *direct* competitors.  
 
 It may be true that your widget is the first of its kind, but you only have a business insofar as there is a market willing and able to buy that widget. And if potential customers exist, they’re almost certainly using something else to solve the problem currently. 
 
@@ -78,7 +78,7 @@ Take some time with this step. It’s crucial. But once you’ve answered these 
 
 If the first step is about gathering wood, the Generation phase is all about igniting the spark. All the insights you gathered in the first step provide the fuel for generating ideas. 
 
-Building a solid strategic foundation is what separates generation from simple brainstorming. At some point, I'm sure you've found yourself in a room with a few other people trying desperately to find the one big idea. It can happen, but without preparation and guidance, brainstorming usually falls flat. 
+**Building a solid strategic foundation is what separates generation from simple brainstorming**. At some point, I'm sure you've found yourself in a room with a few other people trying desperately to find the one big idea. It can happen, but without preparation and guidance, brainstorming usually falls flat. 
 
 As you iterate, you'll be glad you spent the time gathering those insights in the first step. Now, as you explore the vastness of the English language (and maybe a few other languages), your foundation will be your guide, keeping you focused and on-task throughout. 
 
@@ -110,9 +110,11 @@ In the process of naming a logistics tech accelerator, I once came upon a copywr
 
 #### Use human adjectives. 
 
-When you’re building your list of words, don’t just limit it to industry or category terms. Include some adjectives, and not just ones that describe your product like “fast and reliable and simple.” 
+When you’re building your list of words, don’t just limit it to industry or category terms. Include some adjectives, and not just ones that describe your product like “fast and reliable and simple.”  
 
-**Pretend your product is a person and use adjectives to describe the type of personality you want that person to have**. Often, these are the same words that describe your personality, like friendly or fun or buttoned-up or serious. This tactic will help you push beyond technical or overly obvious names, and push you towards ones that will be more evocative. 
+> Pretend your product is a person and use adjectives to describe the type of personality you want that person to have. 
+
+Often, these are the same words that describe your personality, like friendly or fun or buttoned-up or serious. This tactic will help you push beyond technical or overly obvious names, and push you towards ones that will be more evocative. 
 
 #### Take an extended break. 
 
@@ -150,7 +152,7 @@ Our team has identified eight criteria for evaluation. These are all subjective 
 - **Sound** — Is it easily to say? Does it sound good when spoken?
 - **Energy** — It may pass other criteria but is it flat?
 - **Warmth** — Is it too tech-y? Does it need a more human quality?
-- **Depth** — Is the name idea or construction extendable to other aspects of the brand, for instance design, tone of voice, messaging? like Ernie’s.
+- **Depth** — Is the name idea or construction extendable to other aspects of the brand, for instance design, tone of voice, messaging?
 - **Intangibles** — Sometimes the one that feels right is best. 
 
 In addition to these factors, we prefer names that have an obvious spelling and don’t include random capitalizations or require camel case to make sense. 
