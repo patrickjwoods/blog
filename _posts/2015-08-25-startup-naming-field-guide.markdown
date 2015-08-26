@@ -12,7 +12,7 @@ There's plenty of trite advice out there on how to name your startup. Just googl
 
 Thing is, finding a good name is hard. There are no shortcuts. Sure, you *can* pick a name at random and just go with it. But **your name is the first element of your brand a potential user experiences**. It's the tip of the spear, and it should be sharp.
 
-The good news is that others have done this before. My team has named many startups, and even more non-startup brands. I've worked with them to distill the key steps they follow when working on a naming project (shoutout to [Dan Price](https://twitter.com/_danprice) and [Justin Dobbs](https://twitter.com/sloganeerist)). There are lots of processes out there, but this is the one that works for us. 
+The good news is that others have done this before. My team has named many startups, and even more non-startup brands. I've worked with them to distill the key steps they follow when working on a naming project (shoutout to [Dan Price](https://twitter.com/_danprice) and [Justin Dobbs](https://twitter.com/sloganeerist), my two favorite brand pros). There are lots of processes out there, but this is the one that works for us. 
 
 There are four main parts to our approach—Foundation, Generation, Evaluation, and Validation. Each step is important, and the success of each phase depends on the quality of work you put forth in the prior stage. 
 
@@ -36,7 +36,7 @@ As a founder, it’s likely that you’ve spent a considerable amount of time in
 
 The Voice of the Consumer, as it were, serves as an ever-present guiding light throughout the creative development process. After all, if what you're saying and doing doesn’t resonate with the target audience, why say anything at all?
 
-So what kinds of information is useful here? Traditionally, customer insight is split into two subsets. *Demographic* data consists of all the objective data about an audience, including gender, age, income, location and a host of other factors. “25–34 year old college-educate males that own one or more gaming consoles and earn more that $40,000” would be an example of a demographic description. 
+So what kinds of information is useful here? Traditionally, customer insight is split into two subsets. *Demographic* data consists of all the objective data about an audience, including gender, age, income, location and a host of other factors. “25–34 year old college-educated males that own one or more gaming consoles and earn more that $40,000” would be an example of a demographic description. 
 
 The other main type of audience description is called *psychographic*, and as the name implies, looks into the psychology of the audience. Why do they do what they do? What do their behaviors say about their desires, aspirations, and beliefs? What we’re looking for in this case is the *human nature* behind their behavior. As you might imagine, **psychographic descriptions are a lot more interesting and inspiring than demographic descriptions alone**. 
 
@@ -78,7 +78,7 @@ Take some time with this step. It’s crucial. But once you’ve answered these 
 
 If the first step is about gathering wood, the Generation phase is all about igniting the spark. All the insights you gathered in the first step provide the fuel for generating ideas. 
 
-**Building a solid strategic foundation is what separates generation from simple brainstorming**. At some point, I'm sure you've found yourself in a room with a few other people trying desperately to find the one big idea. It can happen, but without preparation and guidance, brainstorming usually falls flat. 
+**Building a solid strategic foundation is what separates name generation from simple brainstorming**. At some point, I'm sure you've found yourself in a room with a few other people trying desperately to find the one big idea. It can happen, but without preparation and guidance, brainstorming usually falls flat. 
 
 As you iterate, you'll be glad you spent the time gathering those insights in the first step. Now, as you explore the vastness of the English language (and maybe a few other languages), your foundation will be your guide, keeping you focused and on-task throughout. 
 
@@ -102,9 +102,11 @@ Startups love collaboration, especially if a whiteboard is involved. But at this
 
 #### Start with building blocks. 
 
-The next step is to generate a list of interesting words and initial name ideas. So tear through Thesaurus pages and Wikipedia entries Google searches and really go down multiple rabbit holes. 
+The next step is to generate a list of interesting words and initial name ideas. So tear through Thesaurus pages and Wikipedia entries Google searches and really **go down multiple rabbit holes**. 
 
-But also just spend some time doing free association, because especially early on you’re really just looking for fodder. *You’re searching for the catalyst, not necessarily the name itself* (although you may find it here). But this stage is all about words and ideas to build with. 
+Say your company makes coffee mugs and you're releasing a new product that's twice the size of a normal mug. You might start researching the history of drinking vessels, the parts of a coffee plant, and the caffeine molecule. Those are three rabbit holes that come to mind first that go in wildly different directions. The caffeine molecule leads you to research on sleep, then sleep disorders, then insomnia. Maybe in the end you call the mug the Insomniac. There's a thread that you can trace back to the core of your brand or offering without it being too obscure. *Your steps are traceable and the name is rooted in truth*.
+
+Also, spend some time doing free association, because especially early on you’re really just looking for fodder. *You’re searching for the catalyst, not necessarily the name itself* (although you may find it here). But this stage is all about words and ideas to build with. 
 
 In the process of naming a logistics tech accelerator, I once came upon a copywriter reading a Wikipedia entry on complex differential gear configurations. You never know where the idea will come from.
 
@@ -126,7 +128,7 @@ So once you have a nice big list of words and thoughts and adjectives to work wi
 
 #### Just Say “NoDaddy.” 
 
-So many startup start with domain registration sites. I’ve seen it happen more times than I can count. Don’t start by punching words into the domain search. 
+So many startups start with domain registration sites. I’ve seen it happen more times than I can count. Don’t start by punching words into the domain search. 
 
 If you stop and check the .com every time you have a decent name, you’re going to find most of them taken, and you’re going to end up frustrated and discouraged. You'll end up checking variations and different spellings and you’re probably going to settle for the first thing that’s available. 
  
@@ -137,6 +139,13 @@ With any luck, you'll start generating revenue and possibly raise enough money t
 So please, no domains right now, that’ll all happen in Phase 3. 
 
 (By the way, if you're exploring startup naming, you probably saw Paul Graham's [essay](http://www.paulgraham.com/name.html) on naming. Mostly, I think he's wrong, so I wrote a little rebuttal called [Change Your Name, But Don’t Sweat The .Com](https://medium.com/@patrickjwoods/change-your-name-but-don-t-sweat-the-com-1a9500687167).)
+
+#### A few final notes on Generation:
+- Browser tabs are your friend.
+- Keep a running list of words or phrases that seem even barely relevant.
+- Work in long sessions of at least two hours. Longer if possible. **It's impossible to get deep in 30-minute increments**.
+- You know you've hit the end of a trail when you've lost the thread. If you find yourself unable to quickly and rationally connect what you're researching back to what you're naming, start down another path.
+
 
 ## 3. EVALUATION 
 
