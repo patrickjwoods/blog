@@ -3,7 +3,7 @@
 .post { 
   max-width: 56 0px;
   margin-bottom: 2em;
-  /* border-bottom: 1px solid #ddd; */  
+  border-bottom: 1px solid #ddd; 
 }
 .post img { max-width: 100%; }
 .post-title a { color: #2C343B; }
@@ -59,8 +59,6 @@
 
 
 blockquote { border-color: #52616D; }
-
-#mc_embed_signup form { margin-bottom: 20px }
 
 @media (min-width: 48rem) {
   .content {

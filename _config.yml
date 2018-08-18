@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         kramdown
-pygments:         true
+markdown:            kramdown
+highlighter:         pygments
 
 # Permalinks
 permalink:        pretty
@@ -13,8 +13,12 @@ url:              http://patrickwoods.com
 comments:		  true
 
 name: Startup Branding from Patrick Woods
-description: Articles about startup branding.
+description: Articles about startup marketing & branding.
 url: http://patrickwoods.com
+
+# Plugins
+whitelist: []
+plugins: [jekyll-paginate]
 
 paginate:         5
 
