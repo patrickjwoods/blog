@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How I can help build both ends of your funnel 
+title: End-to-end customer growth 
 ---
 
 I’ve spent my career on both ends of the funnel. I’ve built brands, crafted demand generation campaigns, and managed hundreds of thousands in paid search budget. 
