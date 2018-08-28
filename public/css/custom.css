@@ -28,7 +28,8 @@
 }
 
 .post-title {
-  font-family: cambria, times;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
   font-size: 2rem;
   line-height: 2.1rem;
 }
@@ -52,8 +53,12 @@
 .post img { text-align: center; }
 
 .sidebar { background-color: rgb(44, 52, 59); padding-bottom: .3rem; }
-  .sidebar h1 { font-size: 1.4rem; font-family: cambria, times }
-  .lead { font-size: .8rem; }
+  .sidebar h1 { 
+    font-size: 2rem; 
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+ }
+  .lead { font-size: .9rem; }
 
   .sidebar li { font-size: .8rem; }
 
