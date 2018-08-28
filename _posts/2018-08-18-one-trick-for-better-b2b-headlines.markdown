@@ -9,6 +9,8 @@ categories: startups
 <img src="{{ root }}/img/writing.jpg" width="100%" alt="How to Write Headlines">
 _Photo by [rawpixel](https://unsplash.com/photos/TlSFr1499oA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)_
 
+_This article originally appeared on my [Medium Blog](https://blog.usejournal.com/a-simple-technique-for-better-b2b-headlines-efc50882f1cb)._
+
 Startups have to write a lot, especially those in B2B categories. Cranking out blog posts, product launches, and various types of emails is tough. In the whirlwind of deadlines and KPIs, it’s easy to lose site of the people on the other side of those emails. 
 
 But when that happens, you find yourself on the slippery slope of **brand narcissism**, losing all touch with customer empathy. 
