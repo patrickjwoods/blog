@@ -2,14 +2,7 @@
 layout: page
 title: About Patrick Woods 
 ---
-
-Hi there, I’m Patrick, and I help startups grow. 
-
-I’ve spent my career on both ends of the funnel. I’ve built brands, crafted demand generation campaigns, and managed hundreds of thousands in paid search budget. 
-
-But I’ve also built customer success organizations, most recently managing $20M in ARR at companies in the machine learning as well as the analytics space. Data scientists, engineers, dev ops — generally, highly technical people. 
-
-**I’m all about the customer. Attracting them, then keeping them.**
+I'm a fencer, writer, and founderer & CEO of [Orbit](https://orbit.love). I live in San Francisco. 
 
 In my career, I’ve worked at [Archer Malmo](https://www.archermalmo.com/), [Keen IO](https://keen.io), and [Figure Eight](http://figure-eight.com). 
 

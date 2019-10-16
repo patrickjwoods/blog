@@ -6,13 +6,13 @@ highlighter:         rouge
 permalink:        pretty
 
 # Setup
-title:            Startup Branding from Patrick Woods
+title:            Patrick Woods
 tagline:          'A Blog'
 description:      'Hybrid ad man/startup guy'
 url:              http://patrickwoods.com
 comments:		  true
 
-name: Startup Branding from Patrick Woods
+name: Patrick Woods
 description: Articles about startup marketing, branding, and growth.
 url: http://patrickwoods.com
 

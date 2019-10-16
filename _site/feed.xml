@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Startup Branding from Patrick Woods</title>
+		<title>Patrick Woods</title>
 		<description>Articles about startup marketing, branding, and growth.</description>		
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Announcing Orbit</title>
+				        
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/img/orbit.png&quot; width=&quot;100%&quot; alt=&quot;Orbit - Developer Relationship Management&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m excited to announce the founding of &lt;a href=&quot;https://orbit.love&quot;&gt;Orbit&lt;/a&gt;, the world’s first &lt;a href=&quot;https://orbit.love&quot;&gt;Developer Relationship Management&lt;/a&gt; platform.&lt;/p&gt;
+
+&lt;p&gt;After hundreds of conversations with client at DeveloperMode, we decided to go all-in on building a product to help companies build and grow developer relationships.&lt;/p&gt;
+
+&lt;p&gt;Based on the &lt;a href=&quot;https://developermode.com/blog/orbit-model-vs-funnel-for-developer-relations/&quot;&gt;Orbit Model for Developer Relations&lt;/a&gt;, Orbit helps team manage relationships, not spreadsheets.&lt;/p&gt;
+
+&lt;p&gt;Apply for early access at &lt;a href=&quot;https://orbit.love&quot;&gt;orbit.love&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 10 Oct 2019 08:50:03 -0700</pubDate>
+				<link>http://localhost:4000/startups/2019/10/10/announcing-orbit/</link>
+				<guid isPermaLink="true">http://localhost:4000/startups/2019/10/10/announcing-orbit/</guid>
+			</item>
 		
 			<item>
 				<title>One Trick for Better B2B Headlines</title>
@@ -52,7 +73,7 @@
 &lt;p&gt;Good luck! Please comment any questions below, or tweet me &lt;a href=&quot;https://twitter.com/patrickjwoods&quot;&gt;@patrickjwoods&lt;/a&gt;.&lt;/p&gt;
 </description>
 				
-				<pubDate>Sat, 18 Aug 2018 10:50:03 -0500</pubDate>
+				<pubDate>Sat, 18 Aug 2018 08:50:03 -0700</pubDate>
 				<link>http://localhost:4000/startups/2018/08/18/one-trick-for-better-b2b-headlines/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2018/08/18/one-trick-for-better-b2b-headlines/</guid>
 			</item>
@@ -77,7 +98,7 @@
 
 </description>
 				
-				<pubDate>Tue, 25 Aug 2015 10:50:03 -0500</pubDate>
+				<pubDate>Tue, 25 Aug 2015 08:50:03 -0700</pubDate>
 				<link>http://localhost:4000/startups/2015/08/25/startup-naming-field-guide/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2015/08/25/startup-naming-field-guide/</guid>
 			</item>
@@ -104,7 +125,7 @@
 
 </description>
 				
-				<pubDate>Sun, 09 Aug 2015 10:50:03 -0500</pubDate>
+				<pubDate>Sun, 09 Aug 2015 08:50:03 -0700</pubDate>
 				<link>http://localhost:4000/startups/2015/08/09/startup-positioning-why-does-share-of-wallet-matter/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2015/08/09/startup-positioning-why-does-share-of-wallet-matter/</guid>
 			</item>
@@ -195,7 +216,7 @@
 
 </description>
 				
-				<pubDate>Wed, 28 Jan 2015 09:50:03 -0600</pubDate>
+				<pubDate>Wed, 28 Jan 2015 07:50:03 -0800</pubDate>
 				<link>http://localhost:4000/startups/2015/01/28/can-agencies-and-startups-get-along/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2015/01/28/can-agencies-and-startups-get-along/</guid>
 			</item>
@@ -216,7 +237,7 @@
 
 </description>
 				
-				<pubDate>Wed, 07 Jan 2015 09:50:03 -0600</pubDate>
+				<pubDate>Wed, 07 Jan 2015 07:50:03 -0800</pubDate>
 				<link>http://localhost:4000/startups/2015/01/07/sweaty-monkey-hands/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2015/01/07/sweaty-monkey-hands/</guid>
 			</item>
@@ -245,7 +266,7 @@ And thankfully, within an hour or so, I had more than a dozen recommendations fr
 
 </description>
 				
-				<pubDate>Fri, 02 Jan 2015 09:50:03 -0600</pubDate>
+				<pubDate>Fri, 02 Jan 2015 07:50:03 -0800</pubDate>
 				<link>http://localhost:4000/startups/2015/01/02/books-my-friends-think-i-should-read/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2015/01/02/books-my-friends-think-i-should-read/</guid>
 			</item>
@@ -282,7 +303,7 @@ And thankfully, within an hour or so, I had more than a dozen recommendations fr
 
 </description>
 				
-				<pubDate>Sun, 23 Nov 2014 06:50:03 -0600</pubDate>
+				<pubDate>Sun, 23 Nov 2014 04:50:03 -0800</pubDate>
 				<link>http://localhost:4000/startups/2014/11/23/tips-for-maximizing-the-brand-strategy-canvas/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2014/11/23/tips-for-maximizing-the-brand-strategy-canvas/</guid>
 			</item>
@@ -305,7 +326,7 @@ And thankfully, within an hour or so, I had more than a dozen recommendations fr
 
 </description>
 				
-				<pubDate>Mon, 04 Aug 2014 10:50:03 -0500</pubDate>
+				<pubDate>Mon, 04 Aug 2014 08:50:03 -0700</pubDate>
 				<link>http://localhost:4000/startups/2014/08/04/brand-archaeology/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2014/08/04/brand-archaeology/</guid>
 			</item>
@@ -332,59 +353,9 @@ And thankfully, within an hour or so, I had more than a dozen recommendations fr
 
 </description>
 				
-				<pubDate>Fri, 01 Aug 2014 10:50:03 -0500</pubDate>
+				<pubDate>Fri, 01 Aug 2014 08:50:03 -0700</pubDate>
 				<link>http://localhost:4000/startups/2014/08/01/safe-return-doubtful/</link>
 				<guid isPermaLink="true">http://localhost:4000/startups/2014/08/01/safe-return-doubtful/</guid>
-			</item>
-		
-			<item>
-				<title>In a Two-sided Marketplace, Build a Hen House</title>
-				        
-				
-					<description>&lt;p&gt;When building a two-sided marketplace, the chicken vs. egg anology&lt;/p&gt;
-
-&lt;p&gt;“No one ever got fired for buying IBM,” as the saying goes.&lt;/p&gt;
-
-&lt;p&gt;IBM here is a metaphor for the safe choice. For jumping on the corporate bandwagon. For following the trends of business.&lt;/p&gt;
-
-&lt;p&gt;Trend following might be safe for corporate types, but for startup founders, “safe” is a four-letter word.&lt;/p&gt;
-
-&lt;p&gt;Just ask legendary ad man George Lois:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Because advertising and marketing is an art, the solution to each new problem or challenge should begin with a blank canvas and an open mind, not with nervous borrowings of other people’s mediocrities. &lt;strong&gt;That’s precisely what “trends” are—a search for something “safe”&lt;/strong&gt;—and why a reliance on them leads to oblivion.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Despite the risks of trend following, startups are notoriously bad about doing so (see my post &lt;a href=&quot;http://patrickwoods.com/startups/2013/05/30/why-does-your-startup-sound-like-a-startup/&quot;&gt;Why Does Your Startup Sound Like a Startup?&lt;/a&gt; for more). Startup trends appear in homepage layouts, messaging, user acquisition plans, and even approaches to company culture.&lt;/p&gt;
-
-&lt;p&gt;But your runway’s shrinking and everything’s on fire and how are you going to make payroll?&lt;/p&gt;
-
-&lt;p&gt;This is no time for the safety of other people’s mediocrities.&lt;/p&gt;
-
-&lt;p&gt;Lois, again:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In any creative industry, the fact that others are moving in a certain direction is always proof positive, at least to me, that &lt;strong&gt;a &lt;em&gt;new&lt;/em&gt; direction is the &lt;em&gt;only&lt;/em&gt; direction&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sounds a lot like the startup worldview. So it’s weird that, when, it comes to branding and messaging, so many startups fall into the trend trap of mediocrity and then oblivion.&lt;/p&gt;
-
-&lt;p&gt;Disruptive technology, you say? Too bad you look and sound like every other player in your space.&lt;/p&gt;
-
-&lt;p&gt;What if your messaging and marketing were as disruptive as your technology? What if your team put in the effort to tell a truly compelling and meaningful brand story that did justice to your product?&lt;/p&gt;
-
-&lt;p&gt;Leave the trends to the bloggers and journalists; they need something to write about come January.&lt;/p&gt;
-
-&lt;p&gt;By the way, when asked for insight into the coming year’s trends, Lois says:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;My answer is always identical to what I said the previous year: “Beats the shit out of me. I’ll know it when I do it.”&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-				
-				<pubDate>Thu, 29 May 2014 10:50:03 -0500</pubDate>
-				<link>http://localhost:4000/startups/2014/05/29/in-a-two-sided-marketplace-build-a-hen-hosue/</link>
-				<guid isPermaLink="true">http://localhost:4000/startups/2014/05/29/in-a-two-sided-marketplace-build-a-hen-hosue/</guid>
 			</item>
 		
 	</channel>
