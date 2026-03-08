@@ -1,0 +1,365 @@
+/* To swap fonts site-wide, change --ff below */
+
+/* ─── Variables ─────────────────────────────────────────────────────────── */
+
+:root {
+  --ff: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --fs:      1.0625rem;
+  --lh:      1.75;
+  --measure: 660px;
+
+  /* Light palette */
+  --bg:       #f8f8f6;
+  --fg:       #1b1b19;
+  --muted:    #6d6d65;
+  --hairline: #dcdcd6;
+  --link:       #43794d;
+  --link-hover: #5f9468;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:         #111110;
+    --fg:         #e0e0da;
+    --muted:      #888880;
+    --hairline:   #2a2a26;
+    --link:       #6db87a;
+    --link-hover: #8ccc98;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg:         #111110;
+  --fg:         #e0e0da;
+  --muted:      #888880;
+  --hairline:   #2a2a26;
+  --link:       #6db87a;
+  --link-hover: #8ccc98;
+}
+
+:root[data-theme="light"] {
+  --bg:       #f8f8f6;
+  --fg:       #1b1b19;
+  --muted:    #6d6d65;
+  --hairline: #dcdcd6;
+  --link:       #43794d;
+  --link-hover: #5f9468;
+}
+
+/* ─── Reset ─────────────────────────────────────────────────────────────── */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ─── Base ──────────────────────────────────────────────────────────────── */
+
+html { font-size: 19.2px; }
+
+body {
+  font-family: var(--ff);
+  font-size: var(--fs);
+  line-height: var(--lh);
+  font-optical-sizing: auto;
+  background-color: var(--bg);
+  color: var(--fg);
+  padding: 4rem 1.5rem 8rem;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: var(--measure);
+  margin: 0 auto;
+}
+
+/* ─── Typography ────────────────────────────────────────────────────────── */
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+p:last-child { margin-bottom: 0; }
+
+strong { font-weight: 700; }
+em     { font-style: italic; }
+
+/* ─── Links ─────────────────────────────────────────────────────────────── */
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--hairline);
+  transition: color 0.12s, text-decoration-color 0.12s;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration-color: currentColor;
+}
+
+/* ─── Blockquotes ───────────────────────────────────────────────────────── */
+
+blockquote {
+  border-left: 2px solid var(--hairline);
+  padding-left: 1.25rem;
+  margin: 1.5rem 0;
+  color: var(--muted);
+  font-style: italic;
+}
+
+blockquote p:last-child { margin-bottom: 0; }
+
+/* ─── Lists ─────────────────────────────────────────────────────────────── */
+
+ul, ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+li { margin-bottom: 0.4rem; }
+li:last-child { margin-bottom: 0; }
+
+/* ─── Rules ─────────────────────────────────────────────────────────────── */
+
+hr {
+  border: none;
+  border-top: 1px solid var(--hairline);
+  margin: 2.5rem 0;
+}
+
+/* ─── Images ────────────────────────────────────────────────────────────── */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+}
+
+/* ─── Back nav ──────────────────────────────────────────────────────────── */
+
+.back {
+  margin-bottom: 2.5rem;
+}
+
+.back a {
+  font-size: 0.875rem;
+  color: var(--muted);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.back a:hover {
+  color: var(--fg);
+}
+
+/* ─── Site name ─────────────────────────────────────────────────────────── */
+
+.site-name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  margin-bottom: 3rem;
+}
+
+.site-name a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ─── Homepage sections ─────────────────────────────────────────────────── */
+
+.home-section {
+  margin-bottom: 3rem;
+}
+
+.home-section h2 {
+  margin-bottom: 1rem;
+}
+
+.home-section h3 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.35rem;
+}
+
+.home-section p {
+  margin-bottom: 1rem;
+}
+
+.home-section + .home-section {
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--hairline);
+}
+
+/* Project block */
+.project {
+  margin-bottom: 1.75rem;
+}
+
+.project:last-child { margin-bottom: 0; }
+
+.project-name {
+  font-weight: 700;
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.project-links {
+  list-style: none;
+  padding: 0;
+  margin: 0.4rem 0 0;
+}
+
+.project-links li { margin-bottom: 0.2rem; }
+
+/* Simple link lists */
+.link-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+
+.link-list li { margin-bottom: 0.3rem; }
+
+/* ─── Archive page ───────────────────────────────────────────────────────── */
+
+.archive-intro {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.archive-intro h1 {
+  margin-bottom: 0.4rem;
+}
+
+.archive-intro p {
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1.5rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.post-list li:first-child {
+  border-top: 1px solid var(--hairline);
+}
+
+.post-list a {
+  text-decoration: none;
+  flex: 1;
+  min-width: 0;
+}
+
+.post-list a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+.post-list time {
+  font-size: 0.825rem;
+  color: var(--muted);
+  white-space: nowrap;
+  font-style: italic;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── Article (post pages) ──────────────────────────────────────────────── */
+
+article header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--hairline);
+}
+
+article header h1 {
+  margin-bottom: 0.4rem;
+}
+
+article header time {
+  font-size: 0.875rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Post body vertical rhythm */
+.post-body h2 { margin-top: 2.5rem; margin-bottom: 0.75rem; }
+.post-body h3 { margin-top: 2rem;   margin-bottom: 0.5rem; }
+.post-body h4 { margin-top: 1.5rem; margin-bottom: 0.4rem; }
+
+.post-body blockquote { margin-top: 1.5rem; margin-bottom: 1.5rem; }
+.post-body img        { margin-top: 1.5rem; margin-bottom: 1.5rem; }
+.post-body hr         { margin-top: 2rem;   margin-bottom: 2rem; }
+
+.post-body ul,
+.post-body ol {
+  margin-top: 0.25rem;
+  margin-bottom: 1.25rem;
+}
+
+/* ─── Theme toggle ──────────────────────────────────────────────────────── */
+
+.theme-toggle {
+  position: fixed;
+  top: 1.25rem;
+  right: 1.25rem;
+  background: none;
+  border: 1px solid var(--hairline);
+  color: var(--muted);
+  font-family: var(--ff);
+  font-size: 0.7rem;
+  padding: 0.25rem 0.55rem;
+  cursor: pointer;
+  letter-spacing: 0.06em;
+  transition: color 0.12s, border-color 0.12s;
+}
+
+.theme-toggle:hover {
+  color: var(--fg);
+  border-color: var(--muted);
+}
