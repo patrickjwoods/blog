@@ -6,7 +6,7 @@
   <title>Patrick Woods</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <script>(function(){var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t;})()</script>
 </head>
@@ -15,7 +15,7 @@
   <main>
 
     <section class="home-section">
-      <h2>Hey, I'm Patrick Woods 👋</h2>
+      <h1><span class="h1-text">Hey, I'm Patrick Woods</span> <span class="wave">👋</span></h1>
       <p>I'm a founder, brand strategist, and writer based in San Francisco. I work on the systems that shape how software spreads — APIs and MCP, developer platforms, and the ecosystems that grow around them, focusing on the structures that allow technical tools to be discovered, adopted, and built upon by others.</p>
 
       <p>I was founder and CEO of <a href="https://orbit-website.joshed.io/
@@ -33,7 +33,7 @@
 
 
     <section class="home-section">
-      <h2>Writing</h2>
+      <h2>Selected Writing</h2>
 
       <ul class="link-list">
         <li><a href="https://future.com/drive-business-growth-by-fostering-community-gtc/">How to Drive Business Growth By Fostering Your Community</a></li>
@@ -50,7 +50,7 @@
       </ul>
 
       <h3>Archive</h3>
-      <p>Posts from 2012–2019 on startups, brand strategy, and messaging. <a href="archive/">Browse the archive.</a></p>
+      <p>Posts from 2012–2019 on startups, brand strategy, and messaging. <a href="blog/">Browse the archive.</a></p>
     </section>
 
     <section class="home-section">
@@ -110,5 +110,52 @@
 
   </main>
   <script src="theme.js"></script>
+  <script>
+    (function () {
+      var h1 = document.querySelector('.home-section h1');
+      var span = h1.querySelector('.h1-text');
+      var hue = 0;
+      var alpha = 0;
+      var targetAlpha = 0;
+      var raf = null;
+
+      h1.classList.add('h1-ripple');
+
+      function mix(h, s, l) {
+        var a = Math.round(alpha * 100);
+        return 'color-mix(in srgb, hsl(' + h + 'deg ' + s + '% ' + l + '%) ' + a + '%, var(--fg))';
+      }
+
+      function tick() {
+        hue = (hue + 2) % 360;
+        alpha += (targetAlpha - alpha) * 0.1;
+        if (Math.abs(targetAlpha - alpha) < 0.002) alpha = targetAlpha;
+
+        span.style.setProperty('--h1-c1', mix(hue, 100, 70));
+        span.style.setProperty('--h1-c2', mix((hue + 90) % 360, 90, 55));
+        span.style.setProperty('--h1-c3', mix((hue + 180) % 360, 90, 60));
+
+        if (alpha > 0 || targetAlpha > 0) {
+          raf = requestAnimationFrame(tick);
+        } else {
+          raf = null;
+        }
+      }
+
+      function startIfNeeded() {
+        if (!raf) raf = requestAnimationFrame(tick);
+      }
+
+      h1.addEventListener('mouseenter', function () {
+        targetAlpha = 1;
+        startIfNeeded();
+      });
+
+      h1.addEventListener('mouseleave', function () {
+        targetAlpha = 0;
+        startIfNeeded();
+      });
+    })();
+  </script>
 </body>
 </html>
